@@ -1,0 +1,15 @@
+#cs1300-gallery {
+  background-color: red;
+}
+
+/* Uncomment below if images are way too big.
+Selects all image tags and makes them 500px;
+ */
+/*img {*/
+/*  width: 500px;*/
+/*}*/
+
+.gallery-container {
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
